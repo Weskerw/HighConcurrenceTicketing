@@ -1,0 +1,17 @@
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Infrastructure\bin\Debug\net10.0\Ticketing.Infrastructure.deps.json
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Infrastructure\bin\Debug\net10.0\Ticketing.Infrastructure.runtimeconfig.json
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Infrastructure\bin\Debug\net10.0\Ticketing.Infrastructure.dll
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Infrastructure\bin\Debug\net10.0\Ticketing.Infrastructure.pdb
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Infrastructure\bin\Debug\net10.0\Ticketing.Core.dll
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Infrastructure\bin\Debug\net10.0\Ticketing.Core.pdb
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Infrastructure\obj\Debug\net10.0\Ticketing.Infrastructure.csproj.AssemblyReference.cache
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Infrastructure\obj\Debug\net10.0\Ticketing.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Infrastructure\obj\Debug\net10.0\Ticketing.Infrastructure.AssemblyInfoInputs.cache
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Infrastructure\obj\Debug\net10.0\Ticketing.Infrastructure.AssemblyInfo.cs
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Infrastructure\obj\Debug\net10.0\Ticketing.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Infrastructure\obj\Debug\net10.0\Ticketin.F3BABD67.Up2Date
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Infrastructure\obj\Debug\net10.0\Ticketing.Infrastructure.dll
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Infrastructure\obj\Debug\net10.0\refint\Ticketing.Infrastructure.dll
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Infrastructure\obj\Debug\net10.0\Ticketing.Infrastructure.pdb
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Infrastructure\obj\Debug\net10.0\Ticketing.Infrastructure.genruntimeconfig.cache
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Infrastructure\obj\Debug\net10.0\ref\Ticketing.Infrastructure.dll

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Devel\\HighConcurrenceTicketing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDBE53B-C739-1DD6-B077-643085CF7857}|src\\Ticketing.Api\\Ticketing.Api.csproj|c:\\devel\\highconcurrenceticketing\\src\\ticketing.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FDBE53B-C739-1DD6-B077-643085CF7857}|src\\Ticketing.Api\\Ticketing.Api.csproj|solutionrelative:src\\ticketing.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDBE53B-C739-1DD6-B077-643085CF7857}|src\\Ticketing.Api\\Ticketing.Api.csproj|c:\\devel\\highconcurrenceticketing\\src\\ticketing.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDBE53B-C739-1DD6-B077-643085CF7857}|src\\Ticketing.Api\\Ticketing.Api.csproj|solutionrelative:src\\ticketing.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78AD67A6-3F28-A52E-D75B-4B21A1A6C965}|src\\Ticketing.Infrastructure\\Ticketing.Infrastructure.csproj|c:\\devel\\highconcurrenceticketing\\src\\ticketing.infrastructure\\data\\ticketingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78AD67A6-3F28-A52E-D75B-4B21A1A6C965}|src\\Ticketing.Infrastructure\\Ticketing.Infrastructure.csproj|solutionrelative:src\\ticketing.infrastructure\\data\\ticketingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6BE3E0-5436-589A-618F-B42ABC266A2F}|src\\Ticketing.Core\\Ticketing.Core.csproj|c:\\devel\\highconcurrenceticketing\\src\\ticketing.core\\ticketreservationrequestedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6BE3E0-5436-589A-618F-B42ABC266A2F}|src\\Ticketing.Core\\Ticketing.Core.csproj|solutionrelative:src\\ticketing.core\\ticketreservationrequestedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6BE3E0-5436-589A-618F-B42ABC266A2F}|src\\Ticketing.Core\\Ticketing.Core.csproj|c:\\devel\\highconcurrenceticketing\\src\\ticketing.core\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6BE3E0-5436-589A-618F-B42ABC266A2F}|src\\Ticketing.Core\\Ticketing.Core.csproj|solutionrelative:src\\ticketing.core\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6BE3E0-5436-589A-618F-B42ABC266A2F}|src\\Ticketing.Core\\Ticketing.Core.csproj|c:\\devel\\highconcurrenceticketing\\src\\ticketing.core\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6BE3E0-5436-589A-618F-B42ABC266A2F}|src\\Ticketing.Core\\Ticketing.Core.csproj|solutionrelative:src\\ticketing.core\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Devel\\HighConcurrenceTicketing\\src\\Ticketing.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Ticketing.Api\\appsettings.json",
+              "ToolTip": "C:\\Devel\\HighConcurrenceTicketing\\src\\Ticketing.Api\\appsettings.json",
+              "RelativeToolTip": "src\\Ticketing.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-01T05:35:47.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Devel\\HighConcurrenceTicketing\\src\\Ticketing.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Ticketing.Api\\Program.cs",
+              "ToolTip": "C:\\Devel\\HighConcurrenceTicketing\\src\\Ticketing.Api\\Program.cs",
+              "RelativeToolTip": "src\\Ticketing.Api\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T05:34:39.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketingDbContext.cs",
+              "DocumentMoniker": "C:\\Devel\\HighConcurrenceTicketing\\src\\Ticketing.Infrastructure\\Data\\TicketingDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Ticketing.Infrastructure\\Data\\TicketingDbContext.cs",
+              "ToolTip": "C:\\Devel\\HighConcurrenceTicketing\\src\\Ticketing.Infrastructure\\Data\\TicketingDbContext.cs",
+              "RelativeToolTip": "src\\Ticketing.Infrastructure\\Data\\TicketingDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T05:33:34.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketReservationRequestedEvent.cs",
+              "DocumentMoniker": "C:\\Devel\\HighConcurrenceTicketing\\src\\Ticketing.Core\\TicketReservationRequestedEvent.cs",
+              "RelativeDocumentMoniker": "src\\Ticketing.Core\\TicketReservationRequestedEvent.cs",
+              "ToolTip": "C:\\Devel\\HighConcurrenceTicketing\\src\\Ticketing.Core\\TicketReservationRequestedEvent.cs",
+              "RelativeToolTip": "src\\Ticketing.Core\\TicketReservationRequestedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T05:12:28.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Devel\\HighConcurrenceTicketing\\src\\Ticketing.Core\\Reservation.cs",
+              "RelativeDocumentMoniker": "src\\Ticketing.Core\\Reservation.cs",
+              "ToolTip": "C:\\Devel\\HighConcurrenceTicketing\\src\\Ticketing.Core\\Reservation.cs",
+              "RelativeToolTip": "src\\Ticketing.Core\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T05:07:41.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Seat.cs",
+              "DocumentMoniker": "C:\\Devel\\HighConcurrenceTicketing\\src\\Ticketing.Core\\Seat.cs",
+              "RelativeDocumentMoniker": "src\\Ticketing.Core\\Seat.cs",
+              "ToolTip": "C:\\Devel\\HighConcurrenceTicketing\\src\\Ticketing.Core\\Seat.cs",
+              "RelativeToolTip": "src\\Ticketing.Core\\Seat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T05:02:02.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Core\bin\Debug\net10.0\Ticketing.Core.deps.json
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Core\bin\Debug\net10.0\Ticketing.Core.dll
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Core\bin\Debug\net10.0\Ticketing.Core.pdb
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Core\obj\Debug\net10.0\Ticketing.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Core\obj\Debug\net10.0\Ticketing.Core.AssemblyInfoInputs.cache
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Core\obj\Debug\net10.0\Ticketing.Core.AssemblyInfo.cs
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Core\obj\Debug\net10.0\Ticketing.Core.csproj.CoreCompileInputs.cache
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Core\obj\Debug\net10.0\Ticketing.Core.dll
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Core\obj\Debug\net10.0\refint\Ticketing.Core.dll
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Core\obj\Debug\net10.0\Ticketing.Core.pdb
+C:\Devel\HighConcurrenceTicketing\src\Ticketing.Core\obj\Debug\net10.0\ref\Ticketing.Core.dll
