@@ -1,0 +1,60 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+[Ll]og/
+[Ll]ogs/
+artifacts/
+publish/
+*.dll
+*.exe
+*.pdb
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+*.rsuser
+launchSettings.json.user
+
+# NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+project.lock.json
+
+# Test results & coverage
+TestResults/
+[Tt]est[Rr]esult*/
+coverage/
+*.coverage
+*.coveragexml
+*.trx
+
+# Secrets & local config
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+*.env
+.env
+.env.*
+*.pfx
+
+# Docker volumes / local data
+postgres-data/
+redis-data/
+rabbitmq-data/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude / AI tooling
+.claude/
